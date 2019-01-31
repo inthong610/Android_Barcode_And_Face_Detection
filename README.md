@@ -5,7 +5,7 @@
 ## 1. 결과물
 ## a. Barcode Detection
 
-<img src="https://user-images.githubusercontent.com/41661879/52055183-075d5e80-25a2-11e9-852e-e32c2972233f.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/41661879/52058665-48a63c00-25ab-11e9-8532-508f9b6cc07f.png" width="50%" height="50%">
 
 #### LINK : 
 https://codelabs.developers.google.com/codelabs/barcodes/index.html?index=..%2F..%2Findex#0
@@ -14,7 +14,7 @@ https://codelabs.developers.google.com/codelabs/barcodes/index.html?index=..%2F.
 
 ## b. Face Detection
 
-<img src="https://user-images.githubusercontent.com/41661879/52055300-5acfac80-25a2-11e9-8fe4-214535b84bb0.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/41661879/52058668-48a63c00-25ab-11e9-8247-afe6d92792b5.png" width="50%" height="50%">
 
 ### Important: 
 This is not a face recognition API. Instead, the new API simply detects areas in the image or video that are human faces. It also infers from changes in the position frame to frame that faces in consecutive frames of video are the same face. If a face leaves the field of view, and re-enters, it isn't recognized as a previously detected face.
