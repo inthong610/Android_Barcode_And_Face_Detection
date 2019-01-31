@@ -8,7 +8,7 @@
 ![barcodedetection](https://user-images.githubusercontent.com/41661879/52055183-075d5e80-25a2-11e9-852e-e32c2972233f.png?s=10) 
 
 
-<img src="https://user-images.githubusercontent.com/41661879/52055183-075d5e80-25a2-11e9-852e-e32c2972233f.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/41661879/52055183-075d5e80-25a2-11e9-852e-e32c2972233f.png" width="50%" height="50%">
 
 #### LINK : 
 https://codelabs.developers.google.com/codelabs/barcodes/index.html?index=..%2F..%2Findex#0
