@@ -22,7 +22,11 @@ This is not a face recognition API. Instead, the new API simply detects areas in
 #### LINK : 
 https://codelabs.developers.google.com/codelabs/face-detection/index.html?index=..%2F..%2Findex#0
 
-## 2. 라이센스 정보
+## 2. 생성일
+
+#### 2018.10.02(TUE)
+
+## 3. 라이센스 정보
 See [LICENSE](LICENSE), Apache License 2.0
 
 
